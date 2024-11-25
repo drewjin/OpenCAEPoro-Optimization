@@ -1,0 +1,7 @@
+/es01/paratera/sce0588/zl/ASC/petsc_solver/build/CMakeFiles/install/strip.dir
+/es01/paratera/sce0588/zl/ASC/petsc_solver/build/CMakeFiles/install/local.dir
+/es01/paratera/sce0588/zl/ASC/petsc_solver/build/CMakeFiles/petsc_solver.dir
+/es01/paratera/sce0588/zl/ASC/petsc_solver/build/CMakeFiles/install.dir
+/es01/paratera/sce0588/zl/ASC/petsc_solver/build/CMakeFiles/list_install_components.dir
+/es01/paratera/sce0588/zl/ASC/petsc_solver/build/CMakeFiles/edit_cache.dir
+/es01/paratera/sce0588/zl/ASC/petsc_solver/build/CMakeFiles/rebuild_cache.dir
